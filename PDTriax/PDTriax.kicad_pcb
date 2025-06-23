@@ -752,7 +752,6 @@
 			(drill 1.778)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "GND")
 			(uuid "4aff4685-b367-419e-a270-17d03ada1ccf")
 		)
 		(pad "4" thru_hole circle
@@ -761,7 +760,6 @@
 			(drill 1.778)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "GND")
 			(uuid "d1a0bcd0-3915-4927-adaa-59982285a39d")
 		)
 		(pad "5" thru_hole circle
@@ -770,7 +768,6 @@
 			(drill 1.778)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "GND")
 			(uuid "17248079-f20e-4019-a0c6-1c516315639c")
 		)
 		(pad "6" thru_hole circle
@@ -779,7 +776,6 @@
 			(drill 1.778)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "GND")
 			(uuid "24b88858-fd1f-4932-a7a6-b9ad17fb48ef")
 		)
 		(embedded_fonts no)
