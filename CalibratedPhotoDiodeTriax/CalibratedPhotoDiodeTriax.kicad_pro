@@ -52,7 +52,28 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|158585100|81190000|5f5db888-a317-4a47-953c-7f9e4e70c480|00000000-0000-0000-0000-000000000000",
+          "Modified slightly to fit guard ring - verified using supplier drawing"
+        ],
+        [
+          "solder_mask_bridge|158472244|81504649|37823562-0178-4cad-ae5f-329263598f0b|87d74a2c-abdf-44dd-9514-eb13bbb2ca2f",
+          "This is an intentional guard ring"
+        ],
+        [
+          "solder_mask_bridge|158499358|68889096|485ffb8f-358b-4f3b-a5b9-1a771cc4a2a5|0cfa4219-ae0c-4418-82dd-2bca03b9b237",
+          "This is an intentional guard ring"
+        ],
+        [
+          "solder_mask_bridge|159765075|84977762|c14065d3-dc39-4de7-b677-8c743c43e77b|716aadce-9878-40c7-8a8e-3b25243f45a3",
+          "This is an intentional guard ring"
+        ],
+        [
+          "solder_mask_bridge|160830146|72086386|19a60e19-0a7c-46ae-8716-3219ba0e678f|34a66a71-c15b-407c-b1c7-8e199e94dd25",
+          "This is an intentional guard ring"
+        ]
+      ],
       "meta": {
         "version": 2
       },
